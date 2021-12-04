@@ -24,6 +24,7 @@ Girdiğiniz değere göre sonuç çıktısı alırsınız
 İsterseniz tablodaki değerlere değişiklik yapabilirsiniz ama geçersiz ifade girerseniz uyarı verir ve giriş formu kapanır
 
 ---------------------------------------------------------------------------------------------
-
+![image](https://user-images.githubusercontent.com/60337657/144713476-ce760f64-dbf0-45e4-8e24-45731c50cf66.png)
+Giriş, çıkış kümesini ve tablonun tamamını değiştirmek istereniz: "I wanna do some changes" butonuna basarsanız, yeni değerler girebimeniz için yeni frame açılır ve ona göre  yeni tablonuz oluşur. Sonra tabloyu doldurup, işleminize devam edebilirsiniz. Başarılar!
 
 
