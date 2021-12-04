@@ -19,4 +19,11 @@ Başlangıçta giriş değerleri-(a,b)
 ![image](https://user-images.githubusercontent.com/60337657/144713314-2dcda539-0159-4c67-9d00-0eb35b1ae0d6.png)
 Girdiğiniz değere göre sonuç çıktısı alırsınız
 
+---------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/60337657/144713377-089138a5-802d-4151-8495-fa7b8de15a79.png)
+İsterseniz tablodaki değerlere değişiklik yapabilirsiniz ama geçersiz ifade girerseniz uyarı verir ve giriş formu kapanır
+
+---------------------------------------------------------------------------------------------
+
+
 
