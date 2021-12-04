@@ -8,10 +8,15 @@ S={a,b}
 Her girdi ile durumlar arası geçişin nasıl olduğunu gösteren geçiş tablosu ve Her varılan durumda hangi çıktının verildiğini gösteren çıktı tablosu bilgileri de kullanıcı tarafından organize edilecektir. Bunlar içinde arayüz tasarlanabileceği gibi iki ayrı text (GECISTABLOSU.TXT ve OUTPUT.TXT) dosyadan alınması da sağlanabilir. Text dosyada ilk satırlar başlık satırları ilk sütunlarda durum sütunları olacaktır. Her bir öğe arası TAB karakteri ile ayrılmış olacaktır.
 
 Programınız dışarıdan girilen Giriş stringi için; durumlar arası geçişleri gösterebilmeli ve nihai çıktıyı da kullanıcıya göstermelidir.
+
 ---------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/60337657/144713250-392dc494-4336-467a-b17c-7d461c5e4cd1.png)
 Program ilk açıldığında karşınıza böyle bir sayfa çıkacak
 Başlangıçta giriş değerleri-(a,b)
 Çıkış değerleri-(0,1)dir
+
+----------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/60337657/144713314-2dcda539-0159-4c67-9d00-0eb35b1ae0d6.png)
+Girdiğiniz değere göre sonuç çıktısı alırsınız
 
 
